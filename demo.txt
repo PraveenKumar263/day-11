@@ -1,0 +1,18 @@
+Bootstrap 4.6 : https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+Bootstrap is a framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
+Website will dynamically adjust to fit different devices
+
+CDN: Content Delivery Network
+
+Load the plugins/components from https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css to your 
+project. (imagine like a python library, you access this library via the internet - CDN)
+So you just need to copy the template of the component you want to use
+e.g. <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+Components and options for laying out your Bootstrap project, including wrapping containers, 
+a powerful grid system, a flexible media object, and responsive utility classes.
+
+Containers is all about holding the elements/objects
+Containers are the most basic layout element in Bootstrap and are required when using our default grid system.
+Note: You don't use nested container
